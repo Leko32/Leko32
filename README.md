@@ -1,4 +1,4 @@
-![Terminal GIF](https://img.shields.io/static/v1?label=ASCII&message=Hello%20World!&color=blue&style=for-the-badge)
+![Animated ASCII](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
