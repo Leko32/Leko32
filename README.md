@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px">
 </p>
+
 ---
 
+### 🎯 Motivational Quote:
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default)
-![GitHub 3D](https://github.com/Leko32/github-profile-3d-contrib/blob/main/profile-night-rainbow.svg)
-
 
 ---
 
@@ -29,10 +29,26 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leko32&show_icons=true&theme=radical" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leko32&theme=radical" width="50%">
 </p>
 
 ---
 
+### 🌀 3D GitHub Contribution:
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px">
+  <img src="https://github.com/Leko32/github-profile-3d-contrib/blob/main/profile-night-rainbow.svg" width="80%">
 </p>
+
+---
+
+### 🔥 Fun ASCII Art:
+```python
+print("Hello, World!")
+   _____       _     _       _            
+  / ____|     (_)   | |     | |           
+ | (___  _ __  _  __| | __ _| |_ ___  ___ 
+  \___ \| '_ \| |/ _` |/ _` | __/ _ \/ __|
+  ____) | |_) | | (_| | (_| | ||  __/\__ \
+ |_____/| .__/|_|\__,_|\__,_|\__\___||___/
+        | |                               
+        |_|                               
