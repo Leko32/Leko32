@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Leko! 👋</h1>
+![Terminal GIF](https://img.shields.io/static/v1?label=ASCII&message=Hello%20World!&color=blue&style=for-the-badge)
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
@@ -33,9 +33,6 @@
 </p>
 
 ---
-![Terminal GIF](https://img.shields.io/static/v1?label=ASCII&message=Hello%20World!&color=blue&style=for-the-badge)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A3C2&width=435&lines=Hello%2C+World!;Welcome+to+my+GitHub!;Python+is+Awesome!)
-
 
 ### 🔥 Fun ASCII Art:
 ```python
