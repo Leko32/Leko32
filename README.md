@@ -8,8 +8,7 @@
 ---
 
 ### 📫 Contact Me:
-[![Telegram](https://img.shields.io/badge/Telegram-%2300acee.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourTelegram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
+[![Telegram](https://img.shields.io/badge/Telegram-%2300acee.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zzLeko)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leko32)
 
 ---
@@ -25,12 +24,10 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leko32&show_icons=true&theme=radical" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leko32&theme=radical" width="50%">
 </p>
 
 ---
 
-### 🔥 Fun GIF:
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px">
 </p>
