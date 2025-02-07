@@ -4,6 +4,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px">
 </p>
+---
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default)
+![GitHub 3D](https://github.com/Leko32/github-profile-3d-contrib/blob/main/profile-night-rainbow.svg)
+
 
 ---
 
