@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px">
 </p>
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A3C2&width=435&lines=Hello%2C+World!;Welcome+to+my+GitHub!;Python+is+Awesome!)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A3C2&width=435&lines=Hello%2C+World!;Welcome+to+my+GitHub!;I'm Leko" />
 </p>
