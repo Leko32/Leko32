@@ -8,7 +8,8 @@
 ---
 
 ### 🎯 Motivational Quote:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -35,9 +36,8 @@
 ---
 
 ### 🌀 3D GitHub Contribution:
-<p align="center">
-  <img src="https://github.com/Leko32/github-profile-3d-contrib/blob/main/profile-night-rainbow.svg" width="80%">
-</p>
+
+![GitHub 3D Profile](https://raw.githubusercontent.com/Leko32/Leko32/output/github-contribution-grid-snake.svg)
 
 ---
 
