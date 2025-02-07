@@ -4,12 +4,8 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A3C2&width=435&lines=Hello%2C+World!;Welcome+to+my+GitHub!;Python+is+Awesome!)
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A3C2&width=435&lines=Hello%2C+World!;Welcome+to+my+GitHub!;I'm Leko" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A3C2&width=435&lines=Hello%2C+World!;Welcome+to+my+GitHub!;Python+is+Awesome!)
 </p>
 
 ---
