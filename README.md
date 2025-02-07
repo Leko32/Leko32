@@ -30,16 +30,10 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leko32&show_icons=true&theme=radical" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leko32&theme=radical" width="50%">
 </p>
 
 ---
-
-### 🌀 3D GitHub Contribution:
-
-![GitHub 3D Profile](https://raw.githubusercontent.com/Leko32/Leko32/output/github-contribution-grid-snake.svg)
-
----
+![Animated ASCII](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ### 🔥 Fun ASCII Art:
 ```python
