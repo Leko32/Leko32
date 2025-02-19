@@ -35,13 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leko32&show_icons=true&theme=radical" width="50%">
-</p>
-
----
-
 ### 🔥 Bye:
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A3C2&width=435&lines=Goodbye)
