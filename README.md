@@ -10,8 +10,7 @@
 
 ### 🎯 Motivational Quote:
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Never+give+up.;Keep+learning+every+day.;Code+Hard%2C+Dream+Big+%F0%9F%94%A5)
 ---
 
 ### 📫 Contact Me:
